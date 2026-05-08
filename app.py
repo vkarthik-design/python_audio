@@ -15,7 +15,7 @@ def main():
 
     # Optional image
     try:
-        st.image("PragyanAI_Transperent.png")
+        st.image("virat-kohli-hd-mrf-bat-iwsd28t8xsmz9b9b.jpg")
     except:
         st.warning("Image file not found")
 
